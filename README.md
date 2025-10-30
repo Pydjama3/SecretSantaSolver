@@ -127,7 +127,3 @@ Important: `constraints.pl` intentionally does not consult any KB. The runner is
 ## License & contribution
 
 This repository is minimal and intended as a small utility. Feel free to adapt and submit improvements (pull requests) for features like better CLI handling, additional constraints, or more robust validation.
-
----
-
-If you want, I can add a `--help` option to `runner.pl` and a small `Makefile` or script to run quick checks. Tell me which and I'll implement it and update the README with the new usage examples.
